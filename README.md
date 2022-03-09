@@ -1,6 +1,6 @@
 # DocUsuario
 
 
-Como hacer tech
+Cómo hacer tech
 
-Si te pegan haz tech ;)
+Si te pegan, haz tech ;)
