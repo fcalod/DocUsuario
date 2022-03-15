@@ -76,7 +76,7 @@ En la pestaña de inicio de sesión, ingresar con las credenciales:
 ### Generar horarios
 
 
-### Borrar materias
+#### Borrar materias
 
 
 ## Estado del proyecto
