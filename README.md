@@ -63,7 +63,7 @@ A --- G --- B
 
 
 ## Uso
-### Inicio de sesión
+#### Inicio de sesión
 En la pestaña de inicio de sesión, ingresar con las credenciales:
    - Cuenta: admin
    - Contraseña: admin
