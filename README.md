@@ -59,9 +59,9 @@ A --- G --- B
 
 
 ## Uso
-1. En la pestaña de inicio de sesión, ingresar con las credenciales 
-   Cuenta: admin
-   Contraseña: admin
+1. En la pestaña de inicio de sesión, ingresar con las credenciales:
+   - Cuenta: admin
+   - Contraseña: admin
 ![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG "Login")
 
 
