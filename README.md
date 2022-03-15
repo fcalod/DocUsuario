@@ -4,9 +4,9 @@
 ## Tabla de contenido
 * [Información general](#información-general)
 * [Programas utilizados](#programas-utilizados)
+* [Setup](#setup)
 * [Features](#features)
 * [Esquema de la base de datos](#esquema-de-la-base-de-datos)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Estado del proyecto](#estado-del-proyecto)
 * [Aspectos por mejorar](#aspectos-por-mejorar)
@@ -20,6 +20,11 @@
 ## Programas utilizados
 - Visual Studio 2019
 - Microsoft SQL Server Management Studio 18
+
+
+## Setup
+
+
 
 ## Features
 
@@ -41,8 +46,6 @@ A --- G --- B
 ```
 
 
-## Setup
-
 ## Usage
 
 ## Estado del proyecto
@@ -60,7 +63,7 @@ Por hacer:
 
 ## Créditos
 - La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/)
-- El diseño de este proyecto fue inspirado por el [generador de horarios](https://generador-horarios-itam.firebaseapp.com/#/carreras) hecho por Fernando Ruiloba y Pedro Lanzagorta 
+- El diseño de la interfaz fue inspirado por el [generador de horarios](https://generador-horarios-itam.firebaseapp.com/#/carreras) hecho por Fernando Ruiloba y Pedro Lanzagorta 
 
 ## Contacto
 Creado por:
