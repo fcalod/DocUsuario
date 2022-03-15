@@ -69,9 +69,9 @@ En la pestaña de inicio de sesión, ingresar con las credenciales:
    - Contraseña: admin
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="450">
 
-o crear una nueva cuenta
+o crear una nueva cuenta.
 
-Para cambiar el nombre de usuario o contraseña, entrar a configuración después de iniciar sesión
+Para cambiar el nombre de usuario o contraseña, entrar a Configuración después de iniciar sesión.
   
 ### Agregar materias y grupos
 
@@ -79,7 +79,7 @@ Para cambiar el nombre de usuario o contraseña, entrar a configuración despué
 ### Generar horarios
 
 
-#### Borrar materias
+#### *Borrar materias*
 
 
 ## Estado del proyecto
