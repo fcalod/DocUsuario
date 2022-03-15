@@ -28,10 +28,12 @@
 
 
 ## Setup
-
-
-
-
+1. Descagar el archivo QueryTablasBD
+ 2. Abrir Microsoft SQL Server Management Studio 18
+ 3. Ejecutar en nuevo query el contenido de QueryTablasBD para crear la base de datos
+ 4. Descargar el zip Proyecto Generador Horarios
+ 5. Extraer la carpeta del zip
+ 6. Ejecutar GeneradorHorarios.exe
 
 
 ## Esquema de la base de datos
