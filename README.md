@@ -3,7 +3,7 @@
 
 ## Tabla de contenido
 * [Información general](#información-general)
-* [Programas utilizados](#programas-utilizados)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Features](#features)
 * [Setup](#setup)
 * [Esquema de la base de datos](#esquema-de-la-base-de-datos)
@@ -19,7 +19,7 @@
 - La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/)
 
 
-## Tecnologías utilizados
+## Tecnologías utilizadas
 - Visual Studio 2019
 - Microsoft SQL Server Management Studio 18
 
@@ -35,9 +35,10 @@
 1. Descargar el archivo QueryTablasBD
  2. Abrir Microsoft SQL Server Management Studio 18
  3. Ejecutar en nuevo query el contenido de QueryTablasBD para crear la base de datos
- 4. Descargar el zip Proyecto Generador Horarios
- 5. Extraer la carpeta del zip
- 6. Ejecutar GeneradorHorarios.exe
+ ![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/CrearQuery.png "Crear Query")
+ 5. Descargar el zip Proyecto Generador Horarios
+ 6. Extraer la carpeta del zip
+ 7. Ejecutar GeneradorHorarios.exe
 
 
 ## Esquema de la base de datos
