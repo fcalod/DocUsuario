@@ -5,13 +5,14 @@
 * [Información general](#información-general)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Features](#features)
-* [Setup](#setup)
+* [Configuración](#configuración)
 * [Esquema de la base de datos](#esquema-de-la-base-de-datos)
-* [Usage](#usage)
+* [Uso](#uso)
 * [Estado del proyecto](#estado-del-proyecto)
 * [Aspectos por mejorar](#aspectos-por-mejorar)
 * [Créditos](#Créditos)
 * [Contacto](#contact)
+
 
 
 ## Información general
@@ -30,14 +31,14 @@
 - Cambiar el nombre de usuario o la contraseña
 
 
-## Setup
+## Configuración
 1. Descargar el archivo QueryTablasBD
 2. Abrir Microsoft SQL Server Management Studio 18
-3. Ejecutar en nuevo query el contenido de QueryTablasBD para crear la base de datos
+3. Abrir QueryTablasBD y ejecutarlo para crear la base de datos
 ![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/CrearQuery.png "Crear Query")
-5. Descargar el zip Proyecto Generador Horarios
+5. Descargar ProyectoGeneradorHorarios.zip
 6. Extraer la carpeta del zip
-7. Ejecutar GeneradorHorarios.exe
+7. Ejecutar GeneradorHorarios.exe 
 ![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png "GeneradorHorario.exe")
 
 
