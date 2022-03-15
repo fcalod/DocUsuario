@@ -70,12 +70,19 @@ En la pestaña de inicio de sesión, ingresar con las credenciales:
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="450">
 
   o crear una nueva cuenta
-### Cómo agregar materias y grupos
+### Agregar materias y grupos
+
+
+### Generar horarios
+
+
+### Borrar materias
+
 
 ## Estado del proyecto
 - Funcional. Aún hay aspectos que mejorar o implementar.
 
-#### Aspectos por mejorar
+Aspectos por mejorar:
 - Hacer más seguro el sistema de cuentas
 - Hacer más clara y atractiva la interfaz
 
