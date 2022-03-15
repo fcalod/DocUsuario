@@ -35,12 +35,12 @@
 1. Descargar el archivo QueryTablasBD
 2. Abrir Microsoft SQL Server Management Studio 18
 3. Abrir QueryTablasBD y ejecutarlo para crear la base de datos
-<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/SQL%201.png" width="800">
-<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/SQL%202.PNG" width="800">
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/SQL%201.png" width="700">
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/SQL%202.PNG" width="700">
 5. Descargar ProyectoGeneradorHorarios.zip
 6. Extraer la carpeta del zip
 7. Ejecutar GeneradorHorarios.exe 
-<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png" width="800">
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png" width="600">
 
 ## Esquema de la base de datos
 ```mermaid
@@ -63,7 +63,7 @@ A --- G --- B
 - En la pestaña de inicio de sesión, ingresar con las credenciales:
    - Cuenta: admin
    - Contraseña: admin
-<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="500">
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="450">
 
   o crear una nueva cuenta
 - Cómo agregar materias y grupos
