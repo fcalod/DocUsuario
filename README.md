@@ -61,7 +61,7 @@ Por hacer:
 
 ## Créditos
 - La idea de este proyecto surgió a partir de la experiencia tenida con el sistema de horarios del [ITAM](https://grace.itam.mx/)
-- Este proyecto está basado en el [generador de horarios](https://generador-horarios-itam.firebaseapp.com) hecho por Fernando Ruiloba y Pedro Lanzagorta 
+- Este proyecto está basado en el [generador de horarios](https://horarios-itam.firebaseapp.com/) hecho por Fernando Ruiloba y Pedro Lanzagorta 
 
 ## Contacto
 Creado por:
