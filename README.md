@@ -24,7 +24,11 @@
 - Microsoft SQL Server Management Studio 18
 
 ## Funciones
-- 
+- Crear una cuenta de usuario para guardar los horarios generados
+- Agregar hasta 10 materias y hasta 5 grupos por cada materia
+- Ordenar los grupos de mayor a menor prioridad
+- Generar hasta 50 horarios, ordenados de acuerdo a las preferencias del usuario
+- Cambiar el nombre de usuario o la contraseña
 
 
 ## Setup
