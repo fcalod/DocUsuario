@@ -63,19 +63,19 @@ A --- G --- B
 
 
 ## Uso
-- En la pestaña de inicio de sesión, ingresar con las credenciales:
+### Inicio de sesión
+En la pestaña de inicio de sesión, ingresar con las credenciales:
    - Cuenta: admin
    - Contraseña: admin
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="450">
 
   o crear una nueva cuenta
-- Cómo agregar materias y grupos
+### Cómo agregar materias y grupos
 
 ## Estado del proyecto
 - Funcional. Aún hay aspectos que mejorar o implementar.
 
-### Aspectos por mejorar
-Por mejorar:
+#### Aspectos por mejorar
 - Hacer más seguro el sistema de cuentas
 - Hacer más clara y atractiva la interfaz
 
