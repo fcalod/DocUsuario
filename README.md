@@ -9,7 +9,6 @@
 * [Esquema de la base de datos](#esquema-de-la-base-de-datos)
 * [Uso](#uso)
 * [Estado del proyecto](#estado-del-proyecto)
-* [Aspectos por mejorar](#aspectos-por-mejorar)
 * [Créditos](#Créditos)
 * [Contacto](#contact)
 
@@ -75,7 +74,7 @@ A --- G --- B
 ## Estado del proyecto
 - Funcional. Aún hay aspectos que mejorar o implementar.
 
-## Aspectos por mejorar
+### Aspectos por mejorar
 Por mejorar:
 - Hacer más seguro el sistema de cuentas
 - Hacer más clara y atractiva la interfaz
