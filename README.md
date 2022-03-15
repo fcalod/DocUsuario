@@ -65,6 +65,7 @@ A --- G --- B
    - Cuenta: admin
    - Contraseña: admin
 ![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG| width=100px "Login" )
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="200">
 
 
 ## Estado del proyecto
