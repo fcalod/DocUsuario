@@ -74,20 +74,26 @@ o crear una nueva cuenta.
 Para cambiar el nombre de usuario o contraseña, entrar a Configuración después de iniciar sesión.
 
 ### Ventana Principal
+
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ventana Principal.PNG" width="450">
+
 Desde la ventana principal se pueden acceder a las distintas funciones del programa. Desde aquí se pueden añadir materias seleccionandolas de la lista para luego buscar grupos de dichas materias.
 
 ### Ordenar materias y grupos
 En esta pestaña se pueden añadir los grupos en orden de preferencia para la materia previamente seleccionada.
+
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Grupos.PNG" width="450">
+
 Una vez que el orden sea el buscado por el alumno, hay que dar click en confirmar para completar la operación.
 
 ### Borrar materias
 También se puede eliminar la materia de la lista del alumno en el botón "eliminar materia".
+
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Borrar.PNG" width="450">
 
 ### Generar horarios
 Una vez se tengan las materias a inscribir con sus grupos ordenados por preferencia, el botón Generar Horarios generará varias opciones de horarios.
+
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Generar.PNG" width="450">
 
 
