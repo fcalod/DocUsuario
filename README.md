@@ -40,7 +40,7 @@
 5. Descargar ProyectoGeneradorHorarios.zip
 6. Extraer la carpeta del zip
 7. Ejecutar GeneradorHorarios.exe 
-![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png=200x200 "GeneradorHorario.exe")
+![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png "GeneradorHorario.exe")
 
 
 ## Esquema de la base de datos
@@ -64,7 +64,7 @@ A --- G --- B
 1. En la pestaña de inicio de sesión, ingresar con las credenciales:
    - Cuenta: admin
    - Contraseña: admin
-![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG| width=100 "Login" )
+![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG| width=100px "Login" )
 
 
 ## Estado del proyecto
