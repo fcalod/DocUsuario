@@ -87,7 +87,7 @@ Para cambiar el nombre de usuario o contraseña, entrar a Configuración despué
 
 
 ## Estado del proyecto
-- Funcional. Aún hay aspectos que mejorar o implementar.
+Funcional. Aún hay aspectos que mejorar o implementar.
 
 Aspectos por mejorar:
 - Hacer más seguro el sistema de cuentas
