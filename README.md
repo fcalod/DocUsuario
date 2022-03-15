@@ -75,11 +75,15 @@ Para cambiar el nombre de usuario o contraseña, entrar a Configuración despué
   
 ### Agregar materias y grupos
 
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Grupos.PNG" width="450">
 
 ### Generar horarios
 
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Generar.PNG" width="450">
 
-### **Borrar materias**
+### Borrar materias
+
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Borrar.PNG" width="450">
 
 
 ## Estado del proyecto
