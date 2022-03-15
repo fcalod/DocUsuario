@@ -1,0 +1,118 @@
+--Creación de tablas--
+
+CREATE DATABASE BDhorario
+USE BDhorario
+
+CREATE TABLE profesor
+(idProf char(3) not null primary key,
+nombre varchar(30));
+
+CREATE TABLE materia
+(idMat char(3) not null primary key,
+nombre varchar(30));
+
+CREATE TABLE alumno
+(idAl smallint not null primary key,
+usuario varchar(20) not null,
+contra varchar(20));
+
+CREATE TABLE grupo
+(idGrupo smallint not null primary key,
+horaInicio char(2), 
+horaFin char(2),  
+dias char(5), 
+IdProf char(3) references profesor, 
+idMat char(3) references materia);
+
+CREATE TABLE considera
+(pref char(1) not null,
+idGrupo smallint references grupo, 
+idAl smallint  references alumno, 
+primary key (idAl, idGrupo));
+--Materias--
+INSERT INTO materia VALUES('001', 'DAI');
+INSERT INTO materia VALUES('002', 'EDA');
+INSERT INTO materia VALUES('003', 'Problemas I');
+INSERT INTO materia VALUES('004', 'Ideas II');
+INSERT INTO materia VALUES('005', 'Física');
+INSERT INTO materia VALUES('006', 'Cálculo I');
+INSERT INTO materia VALUES('007', 'Cálculo II');
+INSERT INTO materia VALUES('008', 'Economía I');
+INSERT INTO materia VALUES('009', 'Teoría de Conjuntos');
+INSERT INTO materia VALUES('010', 'Geometría Proyectiva');
+--Profesores--
+INSERT INTO profesor VALUES('001', 'Ana Lidia');
+INSERT INTO profesor VALUES('002', 'Alejandra Flores');
+INSERT INTO profesor VALUES('003', 'Felipe López');
+
+INSERT INTO profesor VALUES('004', 'Fernando Esponda');
+INSERT INTO profesor VALUES('005', 'Andrés de Silva');
+
+INSERT INTO profesor VALUES('006', 'Silvano Espíndola');
+INSERT INTO profesor VALUES('007', 'Lydia López');
+INSERT INTO profesor VALUES('008', 'Alfredo Villafranca');
+INSERT INTO profesor VALUES('009', 'Alejandro Ordieres');
+
+INSERT INTO profesor VALUES('010', 'Cecilia Galaviz');
+INSERT INTO profesor VALUES('011', 'Alan Vivanco');
+INSERT INTO profesor VALUES('012', 'Javier Espino');
+
+INSERT INTO profesor VALUES('013', 'Ante Salcedo');
+
+INSERT INTO profesor VALUES('014', 'Leobardo Fernández');
+INSERT INTO profesor VALUES('015', 'Carlos Bosch');
+INSERT INTO profesor VALUES('016', 'Jorge García');
+
+INSERT INTO profesor VALUES('017', 'Maira Madriz');
+INSERT INTO profesor VALUES('018', 'Lorena Zogaib');
+INSERT INTO profesor VALUES('019', 'Belén Espinosa');
+
+INSERT INTO profesor VALUES('020', 'Francisco Padilla');
+INSERT INTO profesor VALUES('021', 'Christina Cornejo');
+INSERT INTO profesor VALUES('022', 'Sofía Barba');
+INSERT INTO profesor VALUES('023', 'Karl Marxx');
+
+INSERT INTO profesor VALUES('024', 'Adrián Gallardo');
+INSERT INTO profesor VALUES('025', 'Osvaldo Téllez');
+INSERT INTO profesor VALUES('026', 'Alejandro Uribe');
+
+INSERT INTO profesor VALUES('027', 'Alonso Santos');
+INSERT INTO profesor VALUES('028', 'Fabio Calo');
+INSERT INTO profesor VALUES('029', 'Rammus Du Pond');
+--Grupos--
+INSERT INTO grupo VALUES(1, '08', '12', '01010', '001', '001')
+INSERT INTO grupo VALUES(2, '00', '04', '01010', '002', '001')
+INSERT INTO grupo VALUES(3, '18', '20', '01010', '003', '001')
+INSERT INTO grupo VALUES(4, '09', '12', '10101', '004', '002')
+INSERT INTO grupo VALUES(5, '09', '12', '10101', '005', '002')
+INSERT INTO grupo VALUES(6, '00', '02', '10101', '006', '003')
+INSERT INTO grupo VALUES(7, '02', '04', '10101', '006', '003')
+INSERT INTO grupo VALUES(8, '00', '02', '10101', '007', '003')
+INSERT INTO grupo VALUES(9, '02', '04', '10101', '007', '003')
+INSERT INTO grupo VALUES(10, '22', '24', '10101', '008', '003')
+INSERT INTO grupo VALUES(11, '10', '12', '10101', '009', '003')
+INSERT INTO grupo VALUES(12, '06', '08', '10101', '010', '004')
+INSERT INTO grupo VALUES(13, '14', '16', '10101', '011', '004')
+INSERT INTO grupo VALUES(14, '24', '26', '10101', '012', '004')
+INSERT INTO grupo VALUES(15, '04', '08', '10110', '013', '005')
+INSERT INTO grupo VALUES(16, '00', '04', '10110', '013', '005')
+INSERT INTO grupo VALUES(17, '04', '08', '01010', '014', '006')
+INSERT INTO grupo VALUES(18, '06', '10', '10100', '015', '006')
+INSERT INTO grupo VALUES(19, '08', '12', '10110', '015', '006')
+INSERT INTO grupo VALUES(20, '04', '08', '01010', '016', '006')
+INSERT INTO grupo VALUES(21, '00', '04', '01010', '014', '007')
+INSERT INTO grupo VALUES(22, '04', '08', '01010', '017', '007')
+INSERT INTO grupo VALUES(23, '12', '16', '10100', '018', '007')
+INSERT INTO grupo VALUES(24, '08', '12', '10100', '019', '007')
+INSERT INTO grupo VALUES(25, '03', '06', '10100', '020', '008')
+INSERT INTO grupo VALUES(26, '09', '12', '01010', '021', '008')
+INSERT INTO grupo VALUES(27, '06', '09', '01010', '022', '008')
+INSERT INTO grupo VALUES(28, '07', '10', '10100', '023', '008')
+INSERT INTO grupo VALUES(29, '12', '14', '11111', '024', '009')
+INSERT INTO grupo VALUES(30, '26', '28', '11111', '025', '009')
+INSERT INTO grupo VALUES(31, '20', '22', '11111', '026', '009')
+INSERT INTO grupo VALUES(32, '22', '24', '11111', '027', '010')
+INSERT INTO grupo VALUES(33, '14', '16', '11111', '028', '010')
+INSERT INTO grupo VALUES(34, '15', '17', '11111', '029', '010')
+
+
