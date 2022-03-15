@@ -6,6 +6,7 @@
 * [Programas utilizados](#programas-utilizados)
 * [Features](#features)
 * [Screenshots](#screenshots)
+* [Esquema de la base de datos](#esquema-de-la-base-de-datos)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Estado del proyecto](#estado-del-proyecto)
@@ -24,6 +25,23 @@
 ## Features
 
 ## Screenshots
+
+## Esquema de la base de datos
+```mermaid
+graph LR
+A[Grupo]
+B[Materia]
+C[Profesor]
+D[Alumno]
+F{imparte}
+G{tiene}
+H{considera}
+
+D---H---A
+A --- F --- C
+A --- G --- B
+```
+
 
 ## Setup
 
