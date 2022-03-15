@@ -1,5 +1,5 @@
 # Proyecto Generador de Horarios
-> Este proyecto es una propuesta para mejorar el sistema de meter horarios dentro del ITAM con varias opciones de horarios generados automáticamente según las preferencias del alumno.
+> Este proyecto es una herramienta que facilita la planeación de horarios de los estudiantes del ITAM. Un alumno puede escoger y ordenar hasta cinco grupos por cada materia que desee inscribir; el programa generará los horarios posibles de forma automática, mostrando primero los que mejor coincidan con los grupos preferidos.
 
 ## Tabla de contenido
 * [Información general](#información-general)
