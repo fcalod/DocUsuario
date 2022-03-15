@@ -5,7 +5,6 @@
 * [Información general](#información-general)
 * [Programas utilizados](#programas-utilizados)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Esquema de la base de datos](#esquema-de-la-base-de-datos)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -24,7 +23,6 @@
 
 ## Features
 
-## Screenshots
 
 ## Esquema de la base de datos
 ```mermaid
