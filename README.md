@@ -48,26 +48,27 @@ A --- G --- B
 ## Usage
 
 ## Estado del proyecto
-- En proceso de ser implementado 
+- Funcional. Aún hay aspectos que mejorar o implementar.
 
 ## Aspectos por mejorar
 Por mejorar:
-- Mejorar el sistema de cuentas
-- Mejorar claridad de interfaz
+- Hacer más seguro el sistema de cuentas
+- Hacer más clara y atractiva la interfaz
 
 Por hacer:
-- Implementar el inscribir materias con laboratorios
-- Enlazar programa con base de datos del ITAM
+- Implementar la inscripción de materias con laboratorios
+- Enlazar el programa con la base de datos del ITAM
+- Agregar opciones de accesibilidad (por ejemplo, modo oscuro)
 
 ## Créditos
-- La idea de este proyecto surgió a partir de la experiencia tenida con el sistema de horarios del [ITAM](https://grace.itam.mx/)
-- Este proyecto está basado en el [generador de horarios](https://horarios-itam.firebaseapp.com/) hecho por Fernando Ruiloba y Pedro Lanzagorta 
+- La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/)
+- El diseño de este proyecto fue inspirado por el [generador de horarios](https://generador-horarios-itam.firebaseapp.com/#/carreras) hecho por Fernando Ruiloba y Pedro Lanzagorta 
 
 ## Contacto
 Creado por:
-+ Fabio Calo Dizy
-+ Salvador Alejandro Uribe Calva	
-+ Alan Vivanco Córdoba
++ Fabio G. Calo Dizy (fcalodiz@itam.mx)
++ Salvador Alejandro Uribe Calva (suribeca@itam.mx)
++ Alan Vivanco Córdoba (alan.vivanco@itam.mx)
 
 
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
