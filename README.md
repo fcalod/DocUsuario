@@ -14,7 +14,6 @@
 * [Contacto](#contact)
 
 
-
 ## Información general
 - La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/)
 
@@ -33,12 +32,13 @@
 
 ## Setup
 1. Descargar el archivo QueryTablasBD
- 2. Abrir Microsoft SQL Server Management Studio 18
- 3. Ejecutar en nuevo query el contenido de QueryTablasBD para crear la base de datos
- ![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/CrearQuery.png "Crear Query")
- 5. Descargar el zip Proyecto Generador Horarios
- 6. Extraer la carpeta del zip
- 7. Ejecutar GeneradorHorarios.exe
+2. Abrir Microsoft SQL Server Management Studio 18
+3. Ejecutar en nuevo query el contenido de QueryTablasBD para crear la base de datos
+![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/CrearQuery.png "Crear Query")
+5. Descargar el zip Proyecto Generador Horarios
+6. Extraer la carpeta del zip
+7. Ejecutar GeneradorHorarios.exe
+![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png "GeneradorHorario.exe")
 
 
 ## Esquema de la base de datos
@@ -58,7 +58,12 @@ A --- G --- B
 ```
 
 
-## Usos
+## Uso
+1. En la pestaña de inicio de sesión, ingresar con las credenciales 
+   Cuenta: admin
+   Contraseña: admin
+![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG "Login")
+
 
 ## Estado del proyecto
 - Funcional. Aún hay aspectos que mejorar o implementar.
