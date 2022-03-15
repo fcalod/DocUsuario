@@ -4,13 +4,13 @@
 ## Tabla de contenido
 * [Información general](#información-general)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Features](#features)
+* [Funciones](#funciones)
 * [Configuración](#configuración)
 * [Esquema de la base de datos](#esquema-de-la-base-de-datos)
 * [Uso](#uso)
 * [Estado del proyecto](#estado-del-proyecto)
 * [Créditos](#Créditos)
-* [Contacto](#contact)
+* [Contacto](#contacto)
 
 
 
