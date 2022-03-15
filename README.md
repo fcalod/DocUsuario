@@ -16,7 +16,7 @@
 
 ## Información general
 - La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/), dado que planear el horario de un semestre puede ser muy tardado y tedioso
-- El proyecto se desarrolló para la materia Desarrollo de Aplicaciones Informáticas en Otoño 2020
+- Se desarrolló para la materia Desarrollo de Aplicaciones Informáticas en otoño de 2020
 
 
 ## Tecnologías utilizadas
