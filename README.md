@@ -72,7 +72,10 @@ En la pestaña de inicio de sesión, ingresar con las credenciales:
 o crear una nueva cuenta.
 
 Para cambiar el nombre de usuario o contraseña, entrar a Configuración después de iniciar sesión.
-  
+
+### Ventana Principal
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ventana Principal.PNG" width="450">
+
 ### Agregar materias y grupos
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Grupos.PNG" width="450">
