@@ -79,7 +79,7 @@ Para cambiar el nombre de usuario o contraseña, entrar a Configuración despué
 ### Generar horarios
 
 
-#### *Borrar materias*
+#### **Borrar materias**
 
 
 ## Estado del proyecto
