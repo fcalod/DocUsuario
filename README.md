@@ -64,9 +64,10 @@ A --- G --- B
 1. En la pestaña de inicio de sesión, ingresar con las credenciales:
    - Cuenta: admin
    - Contraseña: admin
-![Alt text](https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG| width=100px "Login" )
-<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="200">
+<img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Inicio%20Sesi%C3%B3n.PNG" width="300">
 
+  o crear una nueva cuenta
+- Cómo agregar materias y grupos
 
 ## Estado del proyecto
 - Funcional. Aún hay aspectos que mejorar o implementar.
