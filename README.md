@@ -73,13 +73,13 @@ o crear una nueva cuenta.
 
 Para cambiar el nombre de usuario o contraseña, entrar a Configuración después de iniciar sesión.
   
-#### Agregar materias y grupos
+### Agregar materias y grupos
 
 
 ### Generar horarios
 
 
-#### **Borrar materias**
+### **Borrar materias**
 
 
 ## Estado del proyecto
