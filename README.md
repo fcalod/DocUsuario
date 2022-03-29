@@ -59,6 +59,7 @@ A --- G --- B
 5. Extrae la carpeta del zip
 
 6. Ejecuta GeneradorHorarios.exe 
+
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png" width="600">
 
 #### Inicio de sesión
@@ -72,17 +73,15 @@ Para cambiar el nombre de usuario o contraseña, entra a Configuración después
 
 
 ### Ventana Principal
+Desde la ventana principal se puede acceder a las distintas funciones del programa. Desde aquí se pueden añadir materias, seleccionándolas de la lista para luego buscar sus grupos.
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ventana Principal.PNG" width="450">
 
-Desde la ventana principal se puede acceder a las distintas funciones del programa. Desde aquí se pueden añadir materias, seleccionándolas de la lista para luego buscar sus grupos.
-
 ### Ordenar materias y grupos
 En esta pestaña se pueden añadir los grupos en orden de preferencia para la materia previamente seleccionada.
+Una vez seleccionado el orden deseado, hay que dar click en confirmar para completar la operación.
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Grupos.PNG" width="450">
-
-Una vez seleccionado el orden deseado, hay que dar click en confirmar para completar la operación.
 
 ### Borrar materias
 También se puede eliminar la materia de la lista del alumno con el botón "eliminar materia".
