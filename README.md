@@ -1,12 +1,9 @@
 # Proyecto Generador de Horarios
-Herramienta que facilita la planeación de horarios de los estudiantes del ITAM. Un alumno puede escoger y ordenar hasta cinco grupos por cada materia que desee inscribir; el programa generará los horarios posibles de forma automática, mostrando primero los que mejor coincidan con los grupos preferidos.
-
+Herramienta que facilita la planeación de horarios de los estudiantes del ITAM. 
 
 ## Tabla de contenido
 * [Información general](#información-general)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Funciones](#funciones)
-* [Esquema de la base de datos](#esquema-de-la-base-de-datos)
 * [Uso](#uso)
 * [Por hacer](#por-hacer)
 * [Créditos](#Créditos)
@@ -14,24 +11,18 @@ Herramienta que facilita la planeación de horarios de los estudiantes del ITAM.
 
 
 ## Información general
-- La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/), dado que planear el horario de un semestre puede ser muy tardado y tedioso
-- Se desarrolló para la materia Desarrollo de Aplicaciones Informáticas en otoño de 2020
+La idea de este proyecto surgió a partir de nuestra experiencia con el sistema de horarios del [ITAM](https://grace.itam.mx/), dado que planear el horario de un semestre puede ser muy tardado y tedioso. 
 
+Un alumno puede escoger y ordenar hasta cinco grupos por cada materia que desee inscribir; el programa generará los horarios posibles de forma automática, mostrando primero los que mejor coincidan con los grupos preferidos.
 
-## Tecnologías utilizadas
-- Visual Studio 2019
-- Microsoft SQL Server Management Studio 18
-
-
-## Funciones
+En este proyecto puedes: 
 - Crear una cuenta de usuario para guardar los horarios generados
 - Agregar hasta 10 materias y hasta 5 grupos por cada materia
 - Ordenar los grupos de mayor a menor prioridad
 - Generar hasta 50 horarios, ordenados de acuerdo a las preferencias del usuario
 - Cambiar el nombre de usuario o la contraseña
 
-
-## Esquema de la base de datos
+La base de datos utilizada en este proyecto está compuesta de la siguiente manera:
 ```mermaid
 graph LR
 A[Grupo]
@@ -46,6 +37,13 @@ D---H---A
 A --- F --- C
 A --- G --- B
 ```
+
+
+## Tecnologías utilizadas
+- Visual Studio 2019
+- Microsoft SQL Server Management Studio 18
+
+
 
 ## Uso
 #### Configuración
@@ -73,23 +71,23 @@ Para cambiar el nombre de usuario o contraseña, entra a Configuración después
 
 
 ### Ventana Principal
-Desde la ventana principal se puede acceder a las distintas funciones del programa. Desde aquí se pueden añadir materias, seleccionándolas de la lista para luego buscar sus grupos.
+Desde la ventana principal puedes acceder a las distintas funciones del programa. Desde aquí se pueden añadir materias, seleccionándolas de la lista para luego buscar sus grupos.
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ventana Principal.PNG" width="450">
 
 ### Ordenar materias y grupos
-En esta pestaña se pueden añadir los grupos en orden de preferencia para la materia previamente seleccionada.
-Una vez seleccionado el orden deseado, hay que dar click en confirmar para completar la operación.
+En esta pestaña puedes añadir los grupos en orden de preferencia para la materia previamente seleccionada.
+Una vez seleccionado el orden deseado, da click en confirmar para completar la operación.
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Grupos.PNG" width="450">
 
 ### Borrar materias
-También se puede eliminar la materia de la lista del alumno con el botón "eliminar materia".
+También puedes eliminar la materia de la lista del alumno con el botón "eliminar materia".
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Borrar.PNG" width="450">
 
 ### Generar horarios
-Una vez se tengan las materias a inscribir con sus grupos ordenados por preferencia, el botón Generar Horarios generará varias opciones de horarios.
+Una vez tengas las materias a inscribir con sus grupos ordenados por preferencia, el botón Generar Horarios generará varias opciones de horarios.
 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Generar.PNG" width="450">
 
@@ -112,3 +110,4 @@ Creado por:
 + Salvador Alejandro Uribe Calva (suribeca@itam.mx)
 + Alan Vivanco Córdoba (alan.vivanco@itam.mx)
 
+Este proyecto se desarrolló para la materia Desarrollo de Aplicaciones Informáticas en otoño de 2020
