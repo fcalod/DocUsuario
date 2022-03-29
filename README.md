@@ -55,7 +55,9 @@ A --- G --- B
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/SQL%201.png" width="600">
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/SQL%202.PNG" width="600">
 4. Descarga ProyectoGeneradorHorarios.zip
+
 5. Extrae la carpeta del zip
+
 6. Ejecuta GeneradorHorarios.exe 
 <img src="https://github.com/fcalod/DocUsuario/blob/main/Screenshots/Ejecutable.png" width="600">
 
